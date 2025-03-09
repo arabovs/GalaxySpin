@@ -164,7 +164,7 @@ const ModelComponent = ({ url }) => {
         </Suspense>
         <OrbitControls enableZoom={false} />
       </Canvas>
-      <h1>Your Score:</h1>
+      <h1>Your position:</h1>
 
       <div
         style={{
